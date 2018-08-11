@@ -1,5 +1,5 @@
 @import url(font-awesome.min.css);
-@import url("https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,600,600italic,800,800italic");
+@import url("http://fonts.googleapis.com/css?family=Open+Sans:400,400italic,600,600italic,800,800italic");
 
 /*
 	Spectral by HTML5 UP
@@ -4101,5 +4101,10 @@
     width: 20vw;
     left: 0vw;
     top: 0vw;
+  }
+
+  .promoimg{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
   }
 
